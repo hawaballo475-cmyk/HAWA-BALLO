@@ -30,3 +30,9 @@ body {
   padding: 40px;
   background: #fafaf9;
 }
+.profiletexte {
+  position: relative;
+  display: flex;
+  padding: 40px;
+  background: #50392B;
+}
