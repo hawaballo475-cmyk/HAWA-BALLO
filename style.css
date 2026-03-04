@@ -27,12 +27,17 @@ body {
 }
 .Container .right-side {
   position: relative;
-  padding: 40px;
+  padding: 0px;
   background: #fafaf9;
+}
+.Container .right-side .imgbx {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
 }
 .profiletexte {
   position: relative;
   display: flex;
-  padding: 40px;
-  background: #50392B;
+  align-items: end;
 }
